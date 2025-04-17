@@ -144,7 +144,7 @@ The project follows a standard data science workflow:
 6. **Visualization**: Presenting results visually for interpretation
 7. **Business Insights**: Deriving actionable marketing strategy recommendations
 
-## Key Findings and Business Applications
+## 7. Business Insights and Applications
 
 ### First-Touch Attribution
 - **Business Application**: Customer acquisition strategy optimization
@@ -176,8 +176,7 @@ The project follows a standard data science workflow:
 - **Implementation**: Identify and leverage channel synergies based on tree-based importance
 - **Key Insight**: Video has dramatically higher importance when considering complex interactions
 
-## Integrated Marketing Strategy
-
+### Integrated Marketing Strategy
 By combining insights from all six models, businesses can develop a comprehensive marketing strategy that:
 
 1. **Optimizes Channel Budget Allocation**: Directing resources based on each channel's role and importance
